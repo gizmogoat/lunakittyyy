@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WowItsKaylie
-- 👀 I’m interested in Linux desktop app development
-- 🌱 I’m currently learning web developent
+- 👀 I’m interested in GTK4 and libadwaita
+- 🌱 I’m currently learning web and desktop developent
 - 💞️ I’m looking to collaborate on UI apps
 - 📫 wowitskaylie@gmail.com
 
