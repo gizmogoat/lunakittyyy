@@ -13,4 +13,4 @@ i'm done. completely done. i am unlikely to EVER work on a mod for monkemod agai
 
 i may look into making mods for a different game, one that cares about its community and will listen. maybe resonite or something, i don't know.
 
-my ban had been reduced to 1 week, devs being 2 weeks, however what i said still stands.
+my ban had been reduced to 1 week, devs being 2 weeks, however what i said still stands. go to either [dev's server](https://discord.gg/dev9998) or [my server](https://discord.gg/QSuRSQVMSP) for updates
