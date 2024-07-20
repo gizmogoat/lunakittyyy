@@ -12,3 +12,5 @@ the moderation in both monkemod and gorilla tag itself is horrible and vastly fl
 i'm done. completely done. i am unlikely to EVER work on a mod for monkemod again, if i keep doing gorilla tag mods they will EXCLUSIVELY be hosted in mine and/or friends servers. i am not wasting my time for it to be thrown away by the greedy people who now rule this game.
 
 i may look into making mods for a different game, one that cares about its community and will listen. maybe resonite or something, i don't know.
+
+my ban had been reduced to 1 week, devs being 2 weeks, however what i said still stands.
